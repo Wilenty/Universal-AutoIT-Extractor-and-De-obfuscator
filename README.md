@@ -16,5 +16,11 @@ Before restarting the OS, script adds itself to the run section for current user
 If you want to remove the the auto-execution after OS restarting, just execute it again and close - it will delete the run entry. For example, if you change decision.
 <br>
 <br>
+I saw that some scripts after extraction has some function with random name before the "#NoTrayIcon", you need to comment it, or delete if the script does not work after compilation.
+<br>
+<br>
+By the way, sometimes you will need to use some resource editor to copy the resources from original script to the newly compiled script.
+<br>
+<br>
 <b>Please take in mind that some AutoIT compiled programs can be dangerous for your OS and/or for the files you have!</b>
 </center>
