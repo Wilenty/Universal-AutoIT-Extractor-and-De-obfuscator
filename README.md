@@ -7,7 +7,7 @@ Also, some of the tools used are detected and blocked by some AV, so, please con
 <br>
 <br>
 <b>Q</b>: Is the restarting the OS is really needed?<br>
-<img src="https://i.imgur.com/YtcMiOu.png" alt="Reboot the OS is really needed"><br>
+<img src="https://i.imgur.com/YtcMiOu.png" alt="Reboot the OS is really needed">
 <b>A</b>: Yes, for firmly protected programs restarting the OS is really needed because of the missing device, the device will be available after restarting the OS.<br>
 <br>
 <br>
