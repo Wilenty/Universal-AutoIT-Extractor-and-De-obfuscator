@@ -8,7 +8,7 @@ Also, some of the tools used are detected and blocked by some AV, so, please con
 <br>
 <b>Q</b>: Is the restarting the OS is really needed?<br>
 <img src="https://i.imgur.com/YtcMiOu.png" alt="Reboot the OS is really needed">
-<b>A</b>: Yes, for firmly protected programs restarting the OS is really needed because of the missing device, the device will be available after restarting the OS.<br>
+<b>A</b>: Yes, for firmly protected programs restarting the OS is really needed because of the missing device, the device will be available after restarting the OS. So, also because of that you should use the VM, instead of real OS.<br>
 <br>
 <br>
 Before restarting the OS, script adds itself to the run section for current user, so, it will be automatically executed after the OS starting again with current file to extract.
@@ -19,7 +19,7 @@ If you want to remove the the auto-execution after OS restarting, just execute i
 I saw that some scripts after extraction has some function with random name before the "#NoTrayIcon", you need to comment it, or delete if the script does not work after compilation.
 <br>
 <br>
-By the way, sometimes you will need to use some resource editor to copy the resources from original script to the newly compiled script.
+By the way, sometimes also you will need to use some resource editor to copy the resources from original script to the newly compiled script.
 <br>
 <br>
 <b>Please take in mind that some AutoIT compiled programs can be dangerous for your OS and/or for the files you have!</b>
