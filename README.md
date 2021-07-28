@@ -19,7 +19,7 @@ If you want to remove the the auto-execution after OS restarting, just execute i
 I saw that some scripts after extraction has some function with random name before the "#NoTrayIcon", you need to comment it or delete, if the script does not work after compilation.
 <br>
 <br>
-By the way, sometimes also you will need to use some resource editor to copy the resources from original script to the newly compiled script.
+By the way, I added that now it saves All Resources of *.exe to a *.res file - use the "Resource Hacker" after re-compilation, to import all resources from extracted *.res file (with overwrite).
 <br>
 <br>
 <b>Please take in mind that some AutoIT compiled programs can be dangerous for your OS and/or for the files you have!</b>
