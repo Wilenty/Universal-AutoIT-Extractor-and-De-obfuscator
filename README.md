@@ -1,5 +1,9 @@
 # Universal AutoIT Extractor and De-obfuscator
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator.svg)](https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator/total.svg)](https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator/latest/total.svg)](https://github.com/Wilenty/Universal-AutoIT-Extractor-and-De-obfuscator/releases/latest)
+
 <center>
 <b>Before use this tool I must warn you, that this tool should be used in VM (Virtual Machine), you can use it on a real OS, but I won't be responsible for any damage! You take responsibility for using this tool.</b>
 <br>
